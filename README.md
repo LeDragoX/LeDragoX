@@ -20,12 +20,12 @@
 </div>
 <hr>
 
-<p align="center">
+<div align="center">
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=ledragox&show_icons=true" alt="Plínio Larrubia's stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact" alt="Top Languages" />
 </a>
-</p>
+</div>
 
 ## Notices
 
