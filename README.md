@@ -1,4 +1,4 @@
-### Hi there 👋
+### It's a me...LeDragoX! 👋
 
 <!--
 **LeDragoX/LeDragoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my [Windows 10/11 Debloat Script](https://github.com/LeDragoX/Win10SmartDebloat) _( I don't have a job yet .-. )_
+- 🌱 I’m currently learning JavaScript/TypeScript, NodeJS, Ruby/Rails, PowerShell and Hardware.
+- 👯 I’m looking to collaborate on the Performance for Windows 10+ and make more easier for people to utilize, leaving the worries to me
+- 🤔 I’m looking for help with getting a internship job
+- 💬 Ask me about Hardware
+- 📫 How to reach me: Discord - LeDragoX#8341
+- 😄 Pronouns: _Ora Ora Ora Ora Ora Ora Ora Ora Ora Ora !_
+- ⚡ Fun fact: I love **GOOD** animes, not shit, only watch them for fun.
