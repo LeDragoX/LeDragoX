@@ -20,16 +20,18 @@
 </div>
 <hr>
 
-If my recent commits appear as "`Unverified`", the reason is that i've switched my SSH and GPG keys and marked
-
-- [x] Flag unsigned commits as unverified
-
 <p align="center">
 <a href="#">
 <img src="https://github-readme-stats.vercel.app/api?username=ledragox&show_icons=true" alt="Plínio Larrubia's stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact" alt="Top Languages" />
 </a>
 </p>
+
+## Notices
+
+If my recent commits appear as "`Unverified`", the reason is that i've switched my SSH and GPG keys and marked
+
+- [x] Flag unsigned commits as unverified
 
 <!--
 **LeDragoX/LeDragoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
