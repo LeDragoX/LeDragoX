@@ -17,7 +17,11 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ledragox&show_icons=true&title_color=#123454" alt="Plínio Larrubia's stats" />
+<<<<<<< HEAD
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact" style="vertical-align: top" alt="Top Languages" />
+=======
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact" alt="Top Languages" />
+>>>>>>> parent of ae2efac... Update 2021-07-21v3
 </p>
 
 <!--
