@@ -13,7 +13,7 @@
 
 If my recent commits appear as "`Unverified`", the reason is that i've switched my SSH and GPG keys and marked
 
-> - [x] Flag unsigned commits as unverified
+- [x] Flag unsigned commits as unverified
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ledragox&show_icons=true&title_color=#123454" alt="Plínio Larrubia's stats" />
