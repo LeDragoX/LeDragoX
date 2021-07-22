@@ -1,15 +1,17 @@
+<div>
+
+<a href="#blank">
+    <img src="https://media1.tenor.com/images/62fa8afc28b4ef7782af1cbcb870d44c/tenor.gif?itemid=15690441" align="right" title="some_gif" width="50%" height="auto" alt="Some gif">
+</a>
+
 <h1 align="center">It's a me...Plínio Larrubia! 👋 Hello, World!</h1>
 
 <h2 align="center">A student of Information Systems on Instituto Federal de Educação, Ciência e Tecnologia Fluminense</h2>
-
 - 🔭 I’m currently working on my [Windows 10/11 Debloat Script](https://github.com/LeDragoX/Win10SmartDebloat) _( I don't have a job yet .-. )_
 - 😄 Pronouns: _Ora Ora Ora Ora Ora Ora Ora Ora Ora Ora !_
 - ⚡ Fun fact: I love **GOOD** animes, not shit, only watch them for fun and i'm _left-handed_.
 
-<a href="#">
-    <img src="https://media1.tenor.com/images/62fa8afc28b4ef7782af1cbcb870d44c/tenor.gif?itemid=15690441" align="right" title="some_gif" width="50%" height="auto" alt="Some gif">
-</a>
-
+</div>
 <div align="center">
 
 |       Section        | Badges                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
