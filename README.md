@@ -1,7 +1,7 @@
 <div>
 
 <a href="#blank">
-    <img src="https://media1.tenor.com/images/62fa8afc28b4ef7782af1cbcb870d44c/tenor.gif?itemid=15690441" align="right" title="some_gif" width="500px" height="auto" alt="Some gif">
+    <img src="https://media1.tenor.com/images/62fa8afc28b4ef7782af1cbcb870d44c/tenor.gif?itemid=15690441" align="right" title="Some gif" width="500px" height="auto" alt="Some gif">
 </a>
 
 <h1 align="center">It's a me...Plínio Larrubia! 👋 Hello, World!</h1>
@@ -27,8 +27,8 @@
 
 <div align="center">
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=ledragox&show_icons=true" alt="Plínio Larrubia's stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ledragox&show_icons=true" title="Plínio Larrubia's stats" alt="Plínio Larrubia's stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact" title="Most Used Languages" alt="Most Used Languages" />
 </a>
 </div>
 
