@@ -7,10 +7,13 @@
 <h1 align="center">It's a me...Plínio Larrubia! 👋 Hello, World!</h1>
 
 <h2 align="center">A student of Information Systems on Instituto Federal de Educação, Ciência e Tecnologia Fluminense</h2>
+
+<div align="left">
 - 🔭 I’m currently working on my [Windows 10/11 Debloat Script](https://github.com/LeDragoX/Win10SmartDebloat) _( I don't have a job yet .-. )_
 - 😄 Pronouns: _Ora Ora Ora Ora Ora Ora Ora Ora Ora Ora !_
 - ⚡ Fun fact: I love **GOOD** animes, not shit, only watch them for fun and i'm _left-handed_.
 
+</div>
 </div>
 <div align="center">
 
