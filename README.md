@@ -6,6 +6,10 @@
 - 😄 Pronouns: _Ora Ora Ora Ora Ora Ora Ora Ora Ora Ora !_
 - ⚡ Fun fact: I love **GOOD** animes, not shit, only watch them for fun and i'm _left-handed_.
 
+<a href="#">
+    <img src="https://media1.tenor.com/images/62fa8afc28b4ef7782af1cbcb870d44c/tenor.gif?itemid=15690441" align="right" title="some_gif" width="50%" height="auto" alt="Some gif">
+</a>
+
 <div align="center">
 
 |       Section        | Badges                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
