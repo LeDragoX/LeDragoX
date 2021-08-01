@@ -27,8 +27,8 @@
 
 <div align="center">
 <a href="#blank">
-<img src="https://github-readme-stats.vercel.app/api?username=ledragox&show_icons=true&theme=dark" title="Plínio Larrubia's stats" alt="Plínio Larrubia's stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact&theme=dark" title="Most Used Languages" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ledragox&show_icons=true&theme=chartreuse-dark" title="Plínio Larrubia's stats" alt="Plínio Larrubia's stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact&theme=chartreuse-dark" title="Most Used Languages" alt="Most Used Languages" />
 </a>
 </div>
 
