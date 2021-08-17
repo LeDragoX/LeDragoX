@@ -1,16 +1,13 @@
 <div>
+  <a href="#blank">
+      <img src="https://media1.tenor.com/images/62fa8afc28b4ef7782af1cbcb870d44c/tenor.gif?itemid=15690441" align="right" title="Some gif" width="500px" height="auto" alt="Some gif">
+  </a>
 
-<a href="#blank">
-    <img src="https://media1.tenor.com/images/62fa8afc28b4ef7782af1cbcb870d44c/tenor.gif?itemid=15690441" align="right" title="Some gif" width="500px" height="auto" alt="Some gif">
-</a>
-
-<h1 align="center">It's a me...Plínio Larrubia! 👋 Hello, World!</h1>
-
-<h2 align="center">A student of Information Systems on Instituto Federal Fluminense</h2>
+  <h1 align="center">It's a me...Plínio Larrubia! 👋 Hello, World!</h1>
+  <h2 align="center">A student of Information Systems on Instituto Federal Fluminense</h2>
 
 - 🔭 I’m currently working on my [Windows 10/+ Debloat Script](https://github.com/LeDragoX/Win10SmartDebloat) _( I don't have a job yet .-. )_
 - ⚡ Fun fact: I love **GOOD** animes, not 💩, and i'm _left-handed_.
-
 </div>
 
 |       Section        | Badges                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -26,10 +23,10 @@
 <hr>
 
 <div align="center">
-<a href="#blank">
-<img src="https://github-readme-stats.vercel.app/api?username=ledragox&hide_title&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180px" title="Plínio Larrubia's stats" alt="Plínio Larrubia's stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact&theme=chartreuse-dark&langs_count=8" height="180px" title="Most Used Languages" alt="Most Used Languages" />
-</a>
+  <a href="#blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=ledragox&hide_title&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180px" title="Plínio Larrubia's stats" alt="Plínio Larrubia's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact&theme=chartreuse-dark&langs_count=8" height="180px" title="Most Used Languages" alt="Most Used Languages" />
+  </a>
 </div>
 
 ## Notices
