@@ -3,10 +3,10 @@
       <img src="https://c.tenor.com/b5W6lI1Wq7YAAAAC/jujutsu-kaisen-jujutsu.gif" align="right" title="Some anime gif" width="500px" height="auto" alt="Some anime gif">
   </a>
 
-  <h1 align="center">It's a me...Plínio Larrubia! 👋 Hello, World!</h1>
-  <h2 align="center">A student of Information Systems on Instituto Federal Fluminense</h2>
+  <h1 align="center">It's a me...Plínio! 👋 Hello, World!</h1>
+  <h2 align="center">A student of Information Systems on Instituto Federal Fluminense and learning Rails thanks to <a href="https://treinadev.com.br/"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="20px" style="vertical-align: middle;" /> TreinaDev</a></h2>
 
-- 🔭 I’m currently working on my [Windows 10/+ Debloat Script](https://github.com/LeDragoX/Win10SmartDebloat) _( I don't have a job yet .-. )_
+- 🔭 I’m currently working on my [Windows 10+ Debloat Script](https://github.com/LeDragoX/Win10SmartDebloat)
 - ⚡ Fun fact: I love **GOOD** animes, not 💩, and i'm _left-handed_.
 </div>
 
