@@ -4,7 +4,7 @@
   </a>
 
   <h1 align="center">It's a me...Plínio! 👋 Hello, World!</h1>
-  <h2 align="center">A student of Information Systems on Instituto Federal Fluminense and learning Rails thanks to <a href="https://treinadev.com.br/"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="20px" style="vertical-align: middle;" /> TreinaDev</a></h2>
+  <h2 align="center">A student of Information Systems on Instituto Federal Fluminense and learning Ruby on Rails thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a></h2>
 
 - 🔭 I’m currently working on my [Windows 10+ Debloat Script](https://github.com/LeDragoX/Win10SmartDebloat)
 - ⚡ Fun fact: I love **GOOD** animes, not 💩, and i'm _left-handed_.
