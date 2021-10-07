@@ -1,6 +1,6 @@
 <div>
   <a href="#blank">
-      <img src="https://media1.tenor.com/images/62fa8afc28b4ef7782af1cbcb870d44c/tenor.gif?itemid=15690441" align="right" title="Some gif" width="500px" height="auto" alt="Some gif">
+      <img src="https://c.tenor.com/b5W6lI1Wq7YAAAAC/jujutsu-kaisen-jujutsu.gif" align="right" title="Some anime gif" width="500px" height="auto" alt="Some anime gif">
   </a>
 
   <h1 align="center">It's a me...Plínio Larrubia! 👋 Hello, World!</h1>
