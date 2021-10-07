@@ -24,8 +24,8 @@
 
 <div align="center">
   <a href="#blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ledragox&hide_title&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180px" title="Plínio Larrubia's stats" alt="Plínio Larrubia's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact&theme=chartreuse-dark&langs_count=8&hide=jupyter%20notebook" height="180px" title="Most Used Languages" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ledragox&hide_title&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180px" title="Shrek is love 💚" alt="Plínio Larrubia's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact&theme=chartreuse-dark&langs_count=8&hide=jupyter%20notebook" height="180px" title="Shrek is life 🧬" alt="Most Used Languages" />
   </a>
 </div>
 
