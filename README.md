@@ -47,6 +47,7 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
           <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
           <img src="https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
           <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white">
           <img src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white">
           <img src="https://img.shields.io/badge/Beekeper_Studio-FAD83B?style=flat&logo=beekeeper-studio&logoColor=white">
@@ -83,7 +84,6 @@
       <td align="center">🛠️ Frameworks</td>
       <td align="center">
         <a href="#blank">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
           <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white">
           <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
         </a>
