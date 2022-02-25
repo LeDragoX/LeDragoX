@@ -8,7 +8,7 @@
   <h1 align="center">It's a me...Plínio! 👋 Hello, World!</h1>
   <h2 align="center">A student of Information Systems on Instituto Federal Fluminense</h2>
 
-- 🔭 I’m currently working on my [Windows 10+ Debloat Script](https://github.com/LeDragoX/Win10SmartDebloat)
+- 🔭 I’m currently working on my [Windows 10+ Debloat Script](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools)
 - ⚡ Fun fact: I love **GOOD** animes, not 💩, and i'm _left-handed_.
 </div>
 
