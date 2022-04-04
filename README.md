@@ -1,13 +1,13 @@
 <div align="center">
   <table>
     <thead>
-      <tr>
+      <tr >
         <th>⚙️ LeDragoX</th>
         <th align="right">🗕 🗗 🗙</th>
       </tr>
     </thead>
     <tbody>
-      <tr>
+      <tr colspan="2">
         <td>
           <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="300px" height="auto" alt="Some anime gif"></a>
           <h1 align="center">It's a me...Plínio! 👋 Hello, World!</h1>
