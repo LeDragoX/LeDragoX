@@ -2,7 +2,7 @@
   <table>
     <thead>
       <tr >
-        <th>⚙️ LeDragoX</th>
+        <th align="left">⚙️ LeDragoX</th>
         <th align="right">🗕 🗗 🗙</th>
       </tr>
     </thead>
