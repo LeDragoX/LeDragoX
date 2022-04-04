@@ -3,7 +3,7 @@
     <thead>
       <tr >
         <th align="left">⚙️ LeDragoX</th>
-        <th align="right">|🗕|🗗|🗙|</th>
+        <th align="right">| 🗕 | 🗗 | 🗙 |</th>
       </tr>
     </thead>
     <tbody>
