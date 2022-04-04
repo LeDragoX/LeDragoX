@@ -1,15 +1,22 @@
-`⚙️ LeDragoX⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🗕 🗗 🗙`
-
-<div>
-  <a href="#blank">
-      <img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="300px" height="auto" alt="Some anime gif">
-  </a>
-
-  <h1 align="center">It's a me...Plínio! 👋 Hello, World!</h1>
-  <h2 align="center">A student of Information Systems on Instituto Federal Fluminense</h2>
-
-- 🔭 I’m currently working on my [Windows 10+ Debloat Script](https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools)
-- ⚡ Fun fact: I love **GOOD** animes, not 💩, and i'm _left-handed_.
+<div align="center">
+  <table>
+    <thead>
+      <th><code>⚙️ LeDragoX⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀🗕 🗗 🗙</code></th>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="300px" height="auto" alt="Some anime gif"></a>
+          <h1 align="center">It's a me...Plínio! 👋 Hello, World!</h1>
+          <h2 align="center">A student of Information Systems on Instituto Federal Fluminense</h2>
+          <ul>
+            <li>🔭 I’m currently working on my <a href="https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools">Windows 10+ Debloat Script</a></li>
+            <li>⚡ Fun fact: I love <b>GOOD</b> animes, not 💩, and i'm <i>left-handed</i>.</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <div align="center">
@@ -108,9 +115,11 @@
 <details>
   <summary>Events/Experiences</summary>
 
-### 2021
+<h3>2021</h3>
 
-- Learned Ruby on Rails thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a>
+<ul>
+  <li>Learned Ruby on Rails thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a></li>
+</ul>
 
 </details>
 
