@@ -35,20 +35,20 @@
       <td align="center">📫 Social Medias</td>
       <td align="center">
         <a href="https://gitlab.com/LeDragoX"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/plinio-larrubia"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/plinio-larrubia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
         <a href="mailto:plinio2xd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
         <a href="https://forum.xda-developers.com/m/ledragox.8006906/"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=flat&logo=xda-developers&logoColor=white"></a>
         <a href="https://steamcommunity.com/id/ledragox/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
-        <a href="https://myanimelist.net/profile/LeDragoX"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
+        <a href="https://myanimelist.net/profile/LeDragoX"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
       </td>
     </tr>
     <tr>
       <td align="center">💾 Operating Systems</td>
       <td align="center">
         <a href="#blank">
-          <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=linux&logoColor=black">
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+          <img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white">
+          <img src="https://img.shields.io/badge/OS-Arch_Linux_(WSL)-FFFFFF?style=flat&logo=arch-linux&logoColor=blue">
+          <img src="https://img.shields.io/badge/OS-Android_12_(Project_Elixir)-3DDC84?style=flat&logo=android&logoColor=">
         </a>
       </td>
     </tr>
@@ -57,9 +57,9 @@
       <td align="center">
         <a href="#blank">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-          <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
-          <img src="https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
+          <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white">
+          <img src="https://img.shields.io/badge/Node_JS-339933?style=flat&logo=nodedotjs&logoColor=white">
           <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white">
           <img src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white">
           <img src="https://img.shields.io/badge/Beekeper_Studio-FAD83B?style=flat&logo=beekeeper-studio&logoColor=white">
@@ -87,7 +87,7 @@
         <a href="#blank">
           <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
           <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white">
-          <img src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white">
+          <img src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white">
           <img src="https://img.shields.io/badge/CSV-1DF100?style=flat&logo=csv&logoColor=white">
         </a>
       </td>
