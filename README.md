@@ -13,6 +13,7 @@
           <h2 align="center">It's a me...Plínio! 👋 Hello, World!</h2>
           <h3 align="center">Finishing the college on Instituto Federal Fluminense</h3>
           <h1></h1>
+          <p align="center"><img src="https://komarev.com/ghpvc/?username=LeDragoX" alt="LeDragoX" /></p>
           <p>
             <i>I’m currently working on my <a href="https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools">Windows 10+ Debloat Script</a> and i'm here to make some difference and help people.</i>
           </p>
