@@ -9,11 +9,16 @@
     <tbody>
       <tr>
         <td colspan="2">
-          <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="300px" height="auto" alt="Some anime gif"></a>
-          <h1 align="center">It's a me...Plínio! 👋 Hello, World!</h1>
-          <h2 align="center">Finishing the college on Instituto Federal Fluminense</h2>
-          <p><i>I’m currently working on my <a href="https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools">Windows 10+ Debloat Script</a></i></p>
-          <p><i>I am here to make some difference and help people</i></p>
+          <h2 align="center">It's a me...Plínio! 👋 Hello, World!</h2>
+          <h3 align="center">Finishing the college on Instituto Federal Fluminense</h3>
+          <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="157px" height="auto" alt="Some anime gif"></a>
+          <h1></h1>
+          <p>
+            <i>I’m currently working on my <a href="https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools">Windows 10+ Debloat Script</a></i>
+            <h1></h1>
+            <i>And i'm here to make some difference and help people</i>
+          </p>
+          <h1></h1>
         </td>
       </tr>
     </tbody>
