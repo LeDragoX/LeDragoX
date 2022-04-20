@@ -9,7 +9,7 @@
     <tbody>
       <tr>
         <td colspan="2">
-          <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="170px" height="auto" alt="Some anime gif"></a>
+          <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="190px" height="auto" alt="Some anime gif"></a>
           <h2 align="center">It's a me...Plínio! 👋 Hello, World!</h2>
           <h3 align="center">Finishing the college on Instituto Federal Fluminense</h3>
           <h1></h1>
