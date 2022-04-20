@@ -11,11 +11,9 @@
         <td colspan="2">
           <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="300px" height="auto" alt="Some anime gif"></a>
           <h1 align="center">It's a me...Plínio! 👋 Hello, World!</h1>
-          <h2 align="center">A student of Information Systems on Instituto Federal Fluminense</h2>
-          <ul>
-            <li>🔭 I’m currently working on my <a href="https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools">Windows 10+ Debloat Script</a></li>
-            <li>⚡ Fun fact: I love <b>GOOD</b> animes, not 💩, and i'm <i>left-handed</i>.</li>
-          </ul>
+          <h2 align="center">Finishing the college on Instituto Federal Fluminense</h2>
+          <p><i>I’m currently working on my <a href="https://github.com/LeDragoX/Win-10-Smart-Debloat-Tools">Windows 10+ Debloat Script</a></i></p>
+          <p><i>I am here to make some difference and help people</i></p>
         </td>
       </tr>
     </tbody>
@@ -24,12 +22,6 @@
 
 <div align="center">
 <table>
-  <thead>
-    <tr>
-      <th>Section</th>
-      <th>Badges</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td align="center">📫 Social Medias</td>
@@ -56,13 +48,8 @@
       <td align="center">🪛 Tools</td>
       <td align="center">
         <a href="#blank">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
           <img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
           <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white">
-          <img src="https://img.shields.io/badge/Node_JS-339933?style=flat&logo=nodedotjs&logoColor=white">
-          <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white">
-          <img src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white">
-          <img src="https://img.shields.io/badge/Beekeper_Studio-FAD83B?style=flat&logo=beekeeper-studio&logoColor=white">
         </a>
       </td>
     </tr>
@@ -76,28 +63,18 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
           <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center">🗄️ Databases</td>
-      <td align="center">
-        <a href="#blank">
-          <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
-          <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white">
-          <img src="https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white">
-          <img src="https://img.shields.io/badge/CSV-1DF100?style=flat&logo=csv&logoColor=white">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">🛠️ Frameworks</td>
+      <td align="center">🛠️ Web Development</td>
       <td align="center">
         <a href="#blank">
           <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white">
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
+          <img src="https://img.shields.io/badge/Node_JS-339933?style=flat&logo=nodedotjs&logoColor=white">
+          <img src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white">
         </a>
       </td>
     </tr>
@@ -121,7 +98,7 @@
 <h3>2021</h3>
 
 <ul>
-  <li>Learned Ruby on Rails thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a></li>
+  <li>Learned Ruby v3 / Rails v6 / TDD / Following Conventions / Linting / Pair Programming / Daily Meeting thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a></li>
 </ul>
 
 </details>
