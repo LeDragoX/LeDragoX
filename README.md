@@ -83,8 +83,8 @@
           </a>
         </td>
       </tr>
-  </tbody>
-</table>
+    </tbody>
+  </table>
 </div>
 
 <details>
