@@ -98,7 +98,7 @@
 
 </details>
 
-<hr>
+<h1></h1>
 
 <div align="center">
   <a href="#blank">
