@@ -9,7 +9,7 @@
     <tbody>
       <tr>
         <td colspan="2">
-          <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="200px" height="auto" alt="Some anime gif"></a>
+          <a href="#blank"><img src="https://static.wikia.nocookie.net/jojoban/images/0/0e/Jotarowithstand_arcade.gif/revision/latest/scale-to-width/360?cb=20180213003908" align="right" title="Some anime gif" width="170px" height="auto" alt="Some anime gif"></a>
           <h2 align="center">It's a me...Plínio! 👋 Hello, World!</h2>
           <h3 align="center">Finishing the college on Instituto Federal Fluminense</h3>
           <h1></h1>
@@ -89,13 +89,10 @@
 
 <details>
   <summary>Events/Experiences</summary>
-
-<h3>2021</h3>
-
-<ul>
-  <li>Learned Ruby v3 / Rails v6 / TDD / Following Conventions / Linting / Pair Programming / Daily Meeting thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a></li>
-</ul>
-
+  <h3>2021</h3>
+  <ul>
+    <li>Learned Ruby v3 / Rails v6 / TDD / Following Conventions / Linting / Pair Programming / Daily Meeting thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a></li>
+  </ul>
 </details>
 
 <h1></h1>
