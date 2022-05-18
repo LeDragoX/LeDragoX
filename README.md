@@ -109,17 +109,15 @@
         <td>Campus Code</td>
         <td>2021</td>
         <td>
-          <ul style="list-style-type: none;">
-            <li>Git</li>
-            <li>Signing Keys</li>
-            <li>Ruby v3</li>
-            <li>Rails v6</li>
-            <li>TDD</li>
-            <li>Following Conventions</li>
-            <li>Linting</li>
-            <li>Pair Programming</li>
-            <li>Daily Meeting</li>
-          </ul>
+          Git<br/>
+          Signing Keys<br/>
+          Ruby v3<br/>
+          Rails v6<br/>
+          TDD<br/>
+          Following Conventions<br/>
+          Linting<br/>
+          Pair Programming<br/>
+          Daily Meeting<br/>
         </td>
       </td>
     </tbody>
