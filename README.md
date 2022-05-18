@@ -89,21 +89,22 @@
 </div>
 
 <details>
-  <summary>Events/Experiences</summary>
+  <summary>⚡ Events/Experiences</summary>
   <h3>2021</h3>
   <ul>
     <li>Learned Ruby v3 / Rails v6 / TDD / Following Conventions / Linting / Pair Programming / Daily Meeting thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a></li>
   </ul>
 </details>
 
-<h1></h1>
-
-<div align="center">
-  <a href="#blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ledragox&hide_title&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180px" title="Shrek is love 💚" alt="Plínio Larrubia's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact&theme=chartreuse-dark&langs_count=8&hide=jupyter%20notebook,java" height="180px" title="Shrek is life 🧬" alt="Most Used Languages" />
-  </a>
-</div>
+<details>
+  <summary>⚡ GitHub Analytics</summary>
+  <div align="center">
+    <a href="#blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=ledragox&hide_title&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180px" title="Shrek is love 💚" alt="Plínio Larrubia's stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ledragox&layout=compact&theme=chartreuse-dark&langs_count=8&hide=jupyter%20notebook,java" height="180px" title="Shrek is life 🧬" alt="Most Used Languages" />
+    </a>
+  </div>
+</details>
 
 <!--
 **LeDragoX/LeDragoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
