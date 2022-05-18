@@ -89,20 +89,47 @@
 </div>
 
 <details>
-  <summary>⚡ Events/Experiences</summary>
-  <h3>2021</h3>
-    <h4>
-      <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a>:
-    </h4>
-  <ul>
-    <li>Learned Ruby v3 / Rails v6 / TDD / Following Conventions / Linting / Pair Programming / Daily Meeting</li>
-  </ul>
+  <summary><b>⚡ Events/Experiences</b></summary>
+  <table align="center">
+    <thead align="center">
+      <tr>
+        <th>Icon</th>
+        <th>Name</th>
+        <th>Company</th>
+        <th>Date</th>
+        <th>Learned</th>
+      </tr>
+    </thead>
+    <tbody align="center">
+      <tr>
+        <td>
+          <img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" />
+        </td>
+        <td><a href="https://treinadev.com.br/" target="_blank">TreinaDev 7</a></td>
+        <td>Campus Code</td>
+        <td>2021</td>
+        <td>
+          <ul style="list-style-type: none;">
+            <li>Git</li>
+            <li>Signing Keys</li>
+            <li>Ruby v3</li>
+            <li>Rails v6</li>
+            <li>TDD</li>
+            <li>Following Conventions</li>
+            <li>Linting</li>
+            <li>Pair Programming</li>
+            <li>Daily Meeting</li>
+          </ul>
+        </td>
+      </td>
+    </tbody>
+  </table>
 </details>
 
-<br />
+<br/>
 
 <details>
-  <summary>⚡ GitHub Analytics</summary>
+  <summary><b>⚡ GitHub Analytics</b></summary>
   <br />
   <div align="center">
     <a href="#blank">
