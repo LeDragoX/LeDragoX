@@ -103,7 +103,7 @@
     <tbody align="center">
       <tr>
         <td>
-          <img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" />
+          <img src="https://github.com/TreinaDev.png" width="25px" style="vertical-align: middle;" />
         </td>
         <td><a href="https://treinadev.com.br/" target="_blank">TreinaDev 7</a></td>
         <td>Campus Code</td>
