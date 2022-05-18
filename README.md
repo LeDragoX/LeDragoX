@@ -1,7 +1,7 @@
 <div align="center">
   <table>
     <thead>
-      <tr >
+      <tr>
         <th align="left">⚙️ LeDragoX</th>
         <th align="right">|⠀⠀🗕⠀⠀|⠀⠀🗗⠀⠀|⠀⠀🗙⠀⠀|</th>
       </tr>
@@ -91,13 +91,19 @@
 <details>
   <summary>⚡ Events/Experiences</summary>
   <h3>2021</h3>
+    <h4>
+      <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a>:
+    </h4>
   <ul>
-    <li>Learned Ruby v3 / Rails v6 / TDD / Following Conventions / Linting / Pair Programming / Daily Meeting thanks to <a href="https://treinadev.com.br/" target="_blank"><img src="https://treinadev.com.br/assets/favicon/favicon-a661a9ff4b3971bdf8624c6356c4eafcad2132334c14fb6fa8d1de80d1a592ab.ico" width="25px" style="vertical-align: middle;" /> TreinaDev</a></li>
+    <li>Learned Ruby v3 / Rails v6 / TDD / Following Conventions / Linting / Pair Programming / Daily Meeting</li>
   </ul>
 </details>
 
+<br />
+
 <details>
   <summary>⚡ GitHub Analytics</summary>
+  <br />
   <div align="center">
     <a href="#blank">
       <img src="https://github-readme-stats.vercel.app/api?username=ledragox&hide_title&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" height="180px" title="Shrek is love 💚" alt="Plínio Larrubia's stats" />
