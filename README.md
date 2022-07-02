@@ -24,13 +24,13 @@
             <a href="https://myanimelist.net/profile/LeDragoX"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
           </p>
           <p align="center"><img src="https://komarev.com/ghpvc/?username=LeDragoX" alt="LeDragoX" /></p>
-          <h5>🪛 Tools: 
+          <h3>🪛 Tools: 
             <a href="#blank">
               <img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
               <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white">
             </a>
-          </h5>
-          <h5>🚀 Languages: 
+          </h3>
+          <h3>🚀 Languages: 
             <a href="#blank">
               <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
               <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=linux&logoColor=white">
@@ -41,29 +41,29 @@
               <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
               <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
             </a>
-          </h5>
-          <h5>🛠️ Web Development: 
+          </h3>
+          <h3>🛠️ Web Development: 
             <a href="#blank">
               <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white">
               <img src="https://img.shields.io/badge/Node_JS-339933?style=flat&logo=nodedotjs&logoColor=white">
               <img src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white">
             </a>
-          </h5>
-          <h5>👨🏻‍💻 My Setup: 
+          </h3>
+          <h3>👨🏻‍💻 My Setup: 
             <a href="#blank">
               <img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white">
               <img src="https://img.shields.io/badge/AMD-Ryzen_5_1600_(AE)-ED1C24?style=flat&logo=amd&logoColor=white">
               <img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white">
               <img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=flat&logo=nvidia&logoColor=white">
             </a>
-          </h5>
-          <h5>💾 Operating Systems: 
+          </h3>
+          <h3>💾 Operating Systems: 
             <a href="#blank">
               <img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white">
               <img src="https://img.shields.io/badge/OS-Arch_Linux_\_WSL-FFFFFF?style=flat&logo=arch-linux&logoColor=blue">
               <img src="https://img.shields.io/badge/OS-Android_12.1_(Awaken_OS)-3DDC84?style=flat&logo=android&logoColor=">
             </a>
-          </h5>
+          </h3>
         </td>
       </tr>
     </tbody>
