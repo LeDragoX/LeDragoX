@@ -102,8 +102,6 @@
   </table>
 </details>
 
-<br/>
-
 <details>
   <summary><b>⚡ GitHub Analytics</b></summary>
   <br />
