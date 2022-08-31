@@ -113,6 +113,21 @@
   </div>
 </details>
 
+<details>
+  <summary><b>⚡ Donate</b></summary>
+  <br />
+  <div align="center">
+    <a href="#blank">
+        <b>PIX (Itaú)</b>: <i>ba1c19f6-5d19-4806-ac99-d12b1e751fc2</i>
+        <form action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="hosted_button_id" value="NETV9RNH6LGR6" />
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+            <img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
+        </form>
+    </a>
+  </div>
+</details>
+
 <!--
 **LeDragoX/LeDragoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
