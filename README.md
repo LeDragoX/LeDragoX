@@ -117,7 +117,7 @@
   <summary><b>⚡ Donate</b></summary>
   <br />
   <div align="center">
-    <b>PIX (Itaú)</b>: <i><a href="ba1c19f6-5d19-4806-ac99-d12b1e751fc2">ba1c19f6-5d19-4806-ac99-d12b1e751fc2</a></i>
+    <b>PIX (Itaú)</b>: <i>ba1c19f6-5d19-4806-ac99-d12b1e751fc2</i>
     <b>PayPal</b>: <i><a href="https://www.paypal.com/donate?token=rhASnxOKoYQ8yyegOFjArpavhOAfFqx04AyfAMH3shdAbmoxv0lQ5i-yYMhucmjb1G1MqeDAQUUtCupt">https://www.paypal.com/donate?token=rhASnxOKoYQ8yyegOFjArpavhOAfFqx04AyfAMH3shdAbmoxv0lQ5i-yYMhucmjb1G1MqeDAQUUtCupt</a></i>
   </div>
 </details>
