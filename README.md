@@ -24,13 +24,13 @@
             <a href="https://myanimelist.net/profile/LeDragoX"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
           </p>
           <p align="center"><img src="https://komarev.com/ghpvc/?username=LeDragoX" alt="LeDragoX" /></p>
-          <h3>🪛 Tools: 
+          <h3>🪛 Tools:
             <a href="#blank">
               <img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
               <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white">
             </a>
           </h3>
-          <h3>🚀 Languages: 
+          <h3>🚀 Languages:
             <a href="#blank">
               <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
               <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=linux&logoColor=white">
@@ -42,14 +42,14 @@
               <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
             </a>
           </h3>
-          <h3>🛠️ Web Development: 
+          <h3>🛠️ Web Development:
             <a href="#blank">
               <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white">
               <img src="https://img.shields.io/badge/Node_JS-339933?style=flat&logo=nodedotjs&logoColor=white">
               <img src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white">
             </a>
           </h3>
-          <h3>👨🏻‍💻 My Setup: 
+          <h3>👨🏻‍💻 My Setup:
             <a href="#blank">
               <img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white">
               <img src="https://img.shields.io/badge/AMD-Ryzen_5_1600_(AE)-ED1C24?style=flat&logo=amd&logoColor=white">
@@ -57,7 +57,7 @@
               <img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=flat&logo=nvidia&logoColor=white">
             </a>
           </h3>
-          <h3>💾 Operating Systems: 
+          <h3>💾 Operating Systems:
             <a href="#blank">
               <img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white">
               <img src="https://img.shields.io/badge/OS-Arch_Linux_\_WSL-FFFFFF?style=flat&logo=arch-linux&logoColor=blue">
@@ -117,14 +117,8 @@
   <summary><b>⚡ Donate</b></summary>
   <br />
   <div align="center">
-    <a href="#blank">
-        <b>PIX (Itaú)</b>: <i>ba1c19f6-5d19-4806-ac99-d12b1e751fc2</i>
-        <form action="https://www.paypal.com/donate" method="post" target="_top">
-            <input type="hidden" name="hosted_button_id" value="NETV9RNH6LGR6" />
-            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-            <img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
-        </form>
-    </a>
+    <b>PIX (Itaú)</b>: <i><a href="ba1c19f6-5d19-4806-ac99-d12b1e751fc2">ba1c19f6-5d19-4806-ac99-d12b1e751fc2</a></i>
+    <b>PayPal</b>: <i><a href="https://www.paypal.com/donate?token=rhASnxOKoYQ8yyegOFjArpavhOAfFqx04AyfAMH3shdAbmoxv0lQ5i-yYMhucmjb1G1MqeDAQUUtCupt">https://www.paypal.com/donate?token=rhASnxOKoYQ8yyegOFjArpavhOAfFqx04AyfAMH3shdAbmoxv0lQ5i-yYMhucmjb1G1MqeDAQUUtCupt</a></i>
   </div>
 </details>
 
