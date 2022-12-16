@@ -52,7 +52,7 @@
           <h3>👨🏻‍💻 My Setup:
             <a href="#blank">
               <img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white">
-              <img src="https://img.shields.io/badge/AMD-Ryzen_5_1600_(AE)-ED1C24?style=flat&logo=amd&logoColor=white">
+              <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white">
               <img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white">
               <img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=flat&logo=nvidia&logoColor=white">
             </a>
