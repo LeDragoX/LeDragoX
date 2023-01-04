@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <table>
     <thead>
       <tr>
@@ -11,11 +11,10 @@
         <td colspan="2">
           <a href="#blank"><img src="https://i.pinimg.com/originals/cb/9d/d2/cb9dd263099adac75b965e94d15b06b4.gif" align="right" title="Some anime gif" width="auto" height="250px" alt="Some anime gif"></a>
           <h2 align="center"><i>It's a me...Plínio! 👋 Hello, World!</i></h2>
-          <h3 align="center"></h3>
-          <ul>
+          <ul align="justify">
             <li><b><i>Graduated on Instituto Federal Fluminense</i></b></li>
             <li><i>I’m currently working on my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a></i></li>
-            <li><i>and i'm here to make some difference and help people.</i></li>
+            <li><i>i'm here to make some difference and help people.</i></li>
           </ul>
           <p align="center">
             <a href="https://gitlab.com/LeDragoX"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
@@ -29,7 +28,7 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <td colspan="2">
           <h4>🪛 Tools:
             <a href="#blank">
               <img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
@@ -73,7 +72,7 @@
         </td>
       </tr>
       <tr>
-        <td>
+        <td colspan="2">
           <details>
             <summary><b>⚡ Events/Experiences</b></summary>
             <table align="center">
