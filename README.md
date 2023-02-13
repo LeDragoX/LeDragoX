@@ -106,12 +106,6 @@
               </tbody>
             </table>
           </details>
-          <details>
-            <summary><b>⚡ Donate</b></summary>
-            <br />
-            <b>PIX</b>: <i>ba1c19f6-5d19-4806-ac99-d12b1e751fc2</i><br>
-            <b>PayPal</b>: <i><a href="https://www.paypal.com/donate?token=rhASnxOKoYQ8yyegOFjArpavhOAfFqx04AyfAMH3shdAbmoxv0lQ5i-yYMhucmjb1G1MqeDAQUUtCupt">https://www.paypal.com/donate?token=rhASnxOKoYQ8yyegOFjArpavhOAfFqx04AyfAMH3shdAbmoxv0lQ5i-yYMhucmjb1G1MqeDAQUUtCupt</a></i>
-          </details>
         </td>
       </tr>
     </tbody>
