@@ -67,7 +67,7 @@
           <h4>💾 Operating Systems:
             <a href="#blank">
               <img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white">
-              <img src="https://img.shields.io/badge/OS-Arch_Linux_\_WSL-FFFFFF?style=flat&logo=arch-linux&logoColor=blue">
+              <img src="https://img.shields.io/badge/OS-EndeavourOS_\_Ubuntu_WSL-FFFFFF?style=flat&logo=arch-linux&logoColor=blue">
               <img src="https://img.shields.io/badge/OS-Android_13_(Pixel_Extended)-3DDC84?style=flat&logo=android&logoColor=">
             </a>
           </h4>
