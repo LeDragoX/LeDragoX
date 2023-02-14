@@ -18,7 +18,7 @@ My bash scripts that setup a workflow for me after installing linux, install **a
 
 A Shell script that relies on `adb` to uninstall bloatware from Android without the need of using a **ROOTED** phone.
 
-⚠ **ATTENTION**: this project is unmaintained as i'm using Custom ROMS and don't depend on manufacturer's OSes anymore, but still valid for old phones.
+⚠ **ATTENTION**: this project is unmaintained as i'm using Custom ROMS and don't depend on manufacturer's OSes anymore, this isn't receiving any support, but still valid for old phones.
 
 ### Other Projects:
 
