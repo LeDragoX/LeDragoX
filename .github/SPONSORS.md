@@ -1,4 +1,4 @@
-**If you like my projects, you can support me through here. I generally like making scripts that automatizes challenging stuff.**
+**If you like any of my projects, you can support me through here. I generally like making scripts that automatizes challenging stuff.**
 
 ## 😉 About Me
 
@@ -8,7 +8,7 @@ Hello, i am ~~THE STORM THAT IS...~~ Plínio Larrubia, i love messing with PCs, 
 
 ### ~ [Win Debloat Tools](https://github.com/LeDragoX/Win-Debloat-Tools)
 
-My variety of scripts to optimize and configure _Windows_ as i would like... **DEBLOATED**. This project includes automatic daily upgrade of softwares found on package managers, fine-tuning for certain aspects of the system and possibility to customize some tweaks through graphical interface. You can also install multiple softwares with a few clicks, silently and with a wide gamma of possibilities.
+My variety of scripts to optimize and configure _Windows_ as i would like... **DEBLOATED**. This project includes automatic daily upgrade of Softwares found on package managers, fine-tuning for certain aspects of the system and possibility to customize some tweaks through graphical interface. You can also install multiple Softwares with a few clicks, silently and with a wide gamma of possibilities.
 
 ### ~ [Linux Script](https://github.com/LeDragoX/linux-script)
 
@@ -16,7 +16,7 @@ My bash scripts that setup a workflow for me after installing linux, install **a
 
 ### ~ [AIO Android Debloater](https://github.com/LeDragoX/aio-android-debloater)
 
-A Shell script that depends on `adb` to uninstall bloatware from Android without the need of using a **ROOTED** phone.
+A Shell script that relies on `adb` to uninstall bloatware from Android without the need of using a **ROOTED** phone.
 
 ⚠ **ATTENTION**: this project is unmaintained as i'm using Custom ROMS and don't depend on manufacturer's OSes anymore, but still valid for old phones.
 
