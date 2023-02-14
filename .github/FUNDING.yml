@@ -13,7 +13,6 @@ github: [LeDragoX] # Replace with up to 4 GitHub Sponsors-enabled usernames e.g.
 # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 # custom: []
 custom: [
-  '[Pix]',
-  'ba1c19f6-5d19-4806-ac99-d12b1e751fc2',
+  '(PIX)-ba1c19f6-5d19-4806-ac99-d12b1e751fc2',
   'https://www.paypal.com/donate/?hosted_button_id=NETV9RNH6LGR6'
 ]
