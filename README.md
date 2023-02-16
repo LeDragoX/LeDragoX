@@ -8,27 +8,33 @@
     </thead>
     <tbody>
       <tr>
-        <td colspan="2">
+        <td colspan="2" align="center">
           <h2 align="center"><i>It's a me...Plínio! 👋 Hello, World!</i></h2>
-          <ul align="justify">
-            <li><b><i>Graduated on Instituto Federal Fluminense</i></b></li>
-            <li><i>I’m currently working on my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a></i></li>
-            <li><i>i'm here to make some difference and help people.</i></li>
-          </ul>
-          <p align="center">
-            <a href="https://gitlab.com/LeDragoX"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
-            <a href="mailto:plinio2xd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-            <a href="https://www.linkedin.com/in/plinio-larrubia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-            <a href="https://myanimelist.net/profile/LeDragoX"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
-            <a href="https://steamcommunity.com/id/ledragox/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
-            <a href="https://forum.xda-developers.com/m/ledragox.8006906/"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=flat&logo=xda-developers&logoColor=white"></a>
-            <br>
-            <img src="https://komarev.com/ghpvc/?username=LeDragoX" alt="LeDragoX" />
-            <br>
-            <a href="#blank"><img src="https://media.tenor.com/7KTms42M9RUAAAAC/berserk-guts.gif" align="center" title="Some anime gif" width="auto" height="200px" alt="Some anime gif"></a>
-          </p>
         </td>
       </tr>
+      <tr>
+        <td colspan="1" align="justify">
+          <b><i>🎓 Graduated on Instituto Federal Fluminense</i></b><br>
+          <i>🔭 I’m currently working on my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a></i><br>
+          <i>⚡ i'm here to make some difference and help people.</i>
+        </td>
+        <td align="center">
+          <h2>👀 Socials</h2>
+          <a href="https://gitlab.com/LeDragoX"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
+          <a href="mailto:plinio2xd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+          <a href="https://www.linkedin.com/in/plinio-larrubia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+          <a href="https://myanimelist.net/profile/LeDragoX"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
+          <a href="https://steamcommunity.com/id/ledragox/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
+          <a href="https://forum.xda-developers.com/m/ledragox.8006906/"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=flat&logo=xda-developers&logoColor=white"></a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" align="center">
+          <img src="https://komarev.com/ghpvc/?username=LeDragoX" alt="LeDragoX" />
+          <br>
+          <a href="#blank"><img src="https://media.tenor.com/7KTms42M9RUAAAAC/berserk-guts.gif" align="center" title="Some anime gif" width="auto" height="200px" alt="Some anime gif"></a>
+        </td>
+      </td>
       <tr>
         <td colspan="1" align="center">
           <h2>🪛 Tools</h2>
