@@ -10,12 +10,17 @@
       <tr>
         <td colspan="2" align="center">
           <h2 align="center"><i>It's a me...Plínio! 👋 Hello, World!</i></h2>
-          <b><i>🎓 Graduated on Instituto Federal Fluminense</i></b> │
-          <i>🔭 I’m currently working on my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a></i> │
-          <i>⚡ i'm here to make some difference and help people</i><br>
           <img src="https://komarev.com/ghpvc/?username=LeDragoX&label=Profile_Views&color=blueviolet&style=flat" alt="LeDragoX" />
-          <br>
-          <a href="#blank"><img src="https://media.tenor.com/7KTms42M9RUAAAAC/berserk-guts.gif" align="center" title="Some anime gif" width="auto" height="200px" alt="Some anime gif"></a>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" align="justify">
+          <b><i>🎓 Graduated on Instituto Federal Fluminense</i></b><br>
+          <i>🔭 I’m currently working on my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a></i><br>
+          <i>⚡ i'm here to make some difference and help people.</i>
+        </td>
+        <td align="center">
+          <a href="#blank"><img src="https://media.tenor.com/7KTms42M9RUAAAAC/berserk-guts.gif" align="center" title="Some anime gif" width="100%" height="auto" alt="Some anime gif"></a>
         </td>
       </tr>
       <tr>
