@@ -53,7 +53,7 @@
         <td colspan="1" align="center">
           <p><b>👀「 SOCIALS 」</b></p>
           <a href="https://gitlab.com/LeDragoX"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
-          <a href="mailto:plinio2xd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+          <a href="mailto:ledragox.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
           <a href="https://www.linkedin.com/in/plinio-larrubia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
           <a href="https://myanimelist.net/profile/LeDragoX"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
           <a href="https://steamcommunity.com/id/ledragox/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
