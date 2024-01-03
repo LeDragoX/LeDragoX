@@ -60,7 +60,7 @@
           <a href="https://amzn.to/3k4f5nh"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
           <a href="https://amzn.to/3YVsGvM"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
           <a href="https://amzn.to/3lI31J2"><img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white"></a>
-          <a href="https://amzn.to/3YQGKXF"><img src="https://img.shields.io/badge/NVIDIA-GTX1060_6GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+          <a href="https://amzn.to/3YQGKXF"><img src="https://img.shields.io/badge/NVIDIA-RTX_4060_8GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
           <a href="https://www.microsoft.com/software-download/windows10"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
           <a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/OS-Linux_Mint_\_Ubuntu_WSL-FFFFFF?style=flat&logo=linux-mint"></a>
