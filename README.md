@@ -18,6 +18,7 @@
         <td colspan="2" align="center">
           <b><i>🎓 Graduated on Instituto Federal Fluminense</i></b><br>
           <i>🔭 I’m currently working on myself, getting things right on my life, helping those who are close to me and keeping my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a> as a side project (i'll give less maintenance)</i><br>
+          <i>🤍 I am really grateful that I have a community which supports each other's issues and "oopsies" my debloat script made, without you this project never would get this far.</i><br>
           <i>⚡ i'm here to make some difference and help people.</i>
         </td>
       </tr>
