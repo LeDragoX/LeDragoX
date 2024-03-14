@@ -62,8 +62,8 @@
           <a href="#"><img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white"></a>
           <a href="#"><img src="https://img.shields.io/badge/NVIDIA-RTX_4060_8GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
-          <a href="https://www.microsoft.com/software-download/windows10"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
-          <a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/OS-Linux_Mint_\_Ubuntu_WSL-FFFFFF?style=flat&logo=linux-mint"></a>
+          <a href="https://www.microsoft.com/software-download/windows11"><img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
+          <a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/OS-Linux_Mint-FFFFFF?style=flat&logo=linux-mint"></a>
           <a href="#blank"><img src="https://img.shields.io/badge/OS-Android_13_(Pixel_Extended)-3DDC84?style=flat&logo=android&logoColor="></a>
         </td>
       </tr>
