@@ -17,7 +17,7 @@
       <tr>
         <td colspan="2" align="center">
           <b><i>🎓 Graduated on Instituto Federal Fluminense</i></b><br>
-          <i>🔭 I’m currently working on my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a></i><br>
+          <i>🔭 I’m currently working on myself, getting things right on my life, helping those who are close to me and keeping my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a> as a side project (i'll give less maintenance)</i><br>
           <i>⚡ i'm here to make some difference and help people.</i>
         </td>
       </tr>
@@ -57,10 +57,10 @@
           <a href="https://steamcommunity.com/id/ledragox/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
           <a href="https://forum.xda-developers.com/m/ledragox.8006906/"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=flat&logo=xda-developers&logoColor=white"></a>
           <br><p><b>👨🏻‍💻「 PC CONFIG 」</b></p>
-          <a href="https://amzn.to/3k4f5nh"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
-          <a href="https://amzn.to/3YVsGvM"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
-          <a href="https://amzn.to/3lI31J2"><img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white"></a>
-          <a href="https://amzn.to/3YQGKXF"><img src="https://img.shields.io/badge/NVIDIA-RTX_4060_8GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/NVIDIA-RTX_4060_8GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
           <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
           <a href="https://www.microsoft.com/software-download/windows10"><img src="https://img.shields.io/badge/OS-Windows_10-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
           <a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/OS-Linux_Mint_\_Ubuntu_WSL-FFFFFF?style=flat&logo=linux-mint"></a>
