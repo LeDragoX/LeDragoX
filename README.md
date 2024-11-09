@@ -1,3 +1,6 @@
+<div align="center">
+</div>
+
 <div>
   <table>
     <thead>
@@ -7,50 +10,56 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td colspan="2" align="center">
-          <h2 align="center"><i>It's a me...Plínio! 👋 Hello, World!</i></h2>
-          <img src="./media/script-meme-24fps.gif" alt="Standing Here..." title="Standing Here..." /><br>
+      <tr align="center">
+        <td colspan="2">
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=26&pause=1000&center=true&vCenter=true&&width=435&lines=It's+a+me...Pl%C3%ADnio!;%F0%9F%91%8B+Hello%2C+World!" alt="Typing SVG" /></a>
+          <br>
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          <br>
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          <img width="12" />
+          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+          <br>
+          <a href="#"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/JUHOR-32GB_RAM_@3600Mhz-993399?style=flat&logo=Juhor&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/NVIDIA-RTX_4060_8GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+          <br>
           <img src="https://komarev.com/ghpvc/?username=LeDragoX&label=Profile_Views&color=blueviolet&style=flat" alt="LeDragoX" />
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" align="center">
-          <b>🎓 <i>Graduated on Instituto Federal Fluminense</i></b><br>
-          🔭 <i>I’m currently working on myself, getting things right on my life, helping those who are close to me and keeping my <a href="https://github.com/LeDragoX/Win-Debloat-Tools"><b>Windows 10+ Debloat Script</b></a> as a side project (i'll give less maintenance)</i><br>
-          🤍 <i>I am really grateful that I have a community which supports each other's issues and "oopsies" my debloat script made, without you this project never would get this far.</i><br>
-          ⚡ <i>i'm here to make some difference and help people.</i>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="1" align="center">
-          <p><b>🪛「 TOOLS 」</b></p>
-            <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/IDE-VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"></a>
-            <a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Design-GIMP-657D8B?style=flat&logo=gimp&logoColor=FFFFFF"></a>
-            <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Web_Design-Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"></a>
-            <a href="https://www.blackmagicdesign.com/br/products/davinciresolve"><img src="https://img.shields.io/badge/Video_Editing-DaVinci_Resolve-E64B3D?style=flat&logo=davinci-resolve&logoColor=white"></a>
-          <br><p><b>🚀「 TECHNOLOGIES 」</b></p>
-            <a href="#blank">
-              <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white">
-              <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=linux&logoColor=white">
-              <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
-              <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">
-              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-              <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD343">
-              <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
-              <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
-              <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white">
-              <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
-            </a>
-          <br><p><b>📚「 STUDYING 」</b></p>
-            <a href="#blank">
-              <img src="https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white">
-              <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
-            </a>
-        </td>
-        <td colspan="1" align="center">
-          <p><b>👀「 SOCIALS 」</b></p>
+          <br>
+          <b>「 SOCIALS 」</b><br>
           <a href="https://gitlab.com/LeDragoX"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
           <a href="mailto:ledragox.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
           <a href="https://www.linkedin.com/in/plinio-larrubia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
@@ -58,50 +67,6 @@
           <a href="https://retroachievements.org/user/ledragox"><img src="https://img.shields.io/badge/RetroAchievements-1e6ede?style=flat&logo=RetroArch&logoColor=ddb750"></a>
           <a href="https://steamcommunity.com/id/ledragox/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
           <a href="https://forum.xda-developers.com/m/ledragox.8006906/"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=flat&logo=xda-developers&logoColor=white"></a>
-          <br><p><b>👨🏻‍💻「 PC CONFIG 」</b></p>
-          <a href="#"><img src="https://img.shields.io/badge/ASUS-A320M\K-ED1C24?style=flat&logo=amd&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=flat&logo=amd&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/Corsair-16GB_RAM_@2666Mhz-993399?style=flat&logo=corsair&logoColor=white"></a>
-          <a href="#"><img src="https://img.shields.io/badge/NVIDIA-RTX_4060_8GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
-          <br><p><b>💾「 OPERATING SYSTEMS 」</b></p>
-          <a href="https://www.microsoft.com/software-download/windows11"><img src="https://img.shields.io/badge/OS-Windows_11-0078D6?style=flat&logo=microsoft&logoColor=white"></a>
-          <a href="https://www.linuxmint.com/"><img src="https://img.shields.io/badge/OS-Linux_Mint-FFFFFF?style=flat&logo=linux-mint"></a>
-          <a href="#blank"><img src="https://img.shields.io/badge/OS-Android_13_(Pixel_Extended)-3DDC84?style=flat&logo=android&logoColor="></a>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          <details>
-            <summary><b>⚡ Events/Experiences</b></summary>
-            <table align="center">
-              <thead align="center">
-                <tr>
-                  <th>Icon</th>
-                  <th>Name</th>
-                  <th>Company</th>
-                  <th>Date</th>
-                  <th>Learned</th>
-                </tr>
-              </thead>
-              <tbody align="center">
-                <tr>
-                  <td>
-                    <img src="https://github.com/TreinaDev.png" width="25px" style="vertical-align: middle;" />
-                  </td>
-                  <td><a href="https://treinadev.com.br/" target="_blank">TreinaDev 7</a></td>
-                  <td>Campus Code</td>
-                  <td>2021</td>
-                  <td>
-                    Git, Signing Keys,<br/>
-                    Ruby v3, Rails v6,<br/>
-                    TDD, Following Conventions,<br/>
-                    Linting, Pair Programming,<br/>
-                    Daily Meeting
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </details>
         </td>
       </tr>
     </tbody>
