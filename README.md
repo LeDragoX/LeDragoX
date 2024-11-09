@@ -1,7 +1,4 @@
 <div align="center">
-</div>
-
-<div>
   <table>
     <thead>
       <tr>
