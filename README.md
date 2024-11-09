@@ -55,15 +55,6 @@
           <a href="#"><img src="https://img.shields.io/badge/NVIDIA-RTX_4060_8GB-76B900?style=flat&logo=nvidia&logoColor=white"></a>
           <br>
           <img src="https://komarev.com/ghpvc/?username=LeDragoX&label=Profile_Views&color=blueviolet&style=flat" alt="LeDragoX" />
-          <br>
-          <b>「 SOCIALS 」</b><br>
-          <a href="https://gitlab.com/LeDragoX"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white"></a>
-          <a href="mailto:ledragox.contact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-          <a href="https://www.linkedin.com/in/plinio-larrubia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-          <a href="https://myanimelist.net/profile/LeDragoX"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=flat&logo=myanimelist&logoColor=white"></a>
-          <a href="https://retroachievements.org/user/ledragox"><img src="https://img.shields.io/badge/RetroAchievements-1e6ede?style=flat&logo=RetroArch&logoColor=ddb750"></a>
-          <a href="https://steamcommunity.com/id/ledragox/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"></a>
-          <a href="https://forum.xda-developers.com/m/ledragox.8006906/"><img src="https://img.shields.io/badge/XDA-Developers-F59812?style=flat&logo=xda-developers&logoColor=white"></a>
         </td>
       </tr>
     </tbody>
